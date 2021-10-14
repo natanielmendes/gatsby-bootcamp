@@ -1,9 +1,11 @@
 import React from 'react';
 import Footer from '../components/footer';
+import Header from '../components/header';
 
 const ContactPage = () => {
     return (
         <div>
+            <Header />
             <h1>Contact</h1>
             <p>The best way to reach me is via <a href="https://github.com/natanielmendes" target="_blank">Github</a>.</p>
             <Footer />
