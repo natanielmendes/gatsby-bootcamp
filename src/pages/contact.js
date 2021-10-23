@@ -6,7 +6,7 @@ const ContactPage = () => {
     return (
         <Layout>
             <h1>Contact</h1>
-            <p>The best way to reach me is via <a href="https://github.com/natanielmendes" target="_blank">Github</a>.</p>
+            <p>The best way to reach me is via <a href="https://github.com/natanielmendes" target="_blank" rel="noreferrer">Github</a>.</p>
         </Layout>
     )
 }
