@@ -5,6 +5,8 @@ date: "10-23-2021"
 
 I just started a new bootcamp!
 
+![Road](./road.jpeg)
+
 ## Topics Covered
 
 1. Gatsby
