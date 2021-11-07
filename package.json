@@ -1,7 +1,7 @@
 {
   "name": "gatsby-bootcamp",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "The Great Gatsby Bootcamp",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
