@@ -10,6 +10,8 @@ module.exports = {
     author: 'Nataniel Carvalho'
   },
   plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
     'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
