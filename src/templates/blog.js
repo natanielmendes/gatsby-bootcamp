@@ -42,7 +42,7 @@ const Blog = (props) => {
             alt={props.data.mdx.frontmatter.hero_image_alt}
           />
           <p>
-            Photo Credit:{" "}
+            Image Credit:{" "}
             <a href={props.data.mdx.frontmatter.hero_image_credit_link}>
               {props.data.mdx.frontmatter.hero_image_credit_text}
             </a>
